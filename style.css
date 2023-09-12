@@ -120,6 +120,9 @@ nav h2{
   }
   nav h2{
    font-size: medium;
-    
-  }
+   margin-right: 10px;
+    }
+    nav ul{
+      font-size: medium;
+    }
 }
