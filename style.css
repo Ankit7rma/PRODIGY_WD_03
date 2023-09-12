@@ -17,11 +17,13 @@ nav {
   justify-content: space-between;
 }
 
+
 nav ul {
   list-style-type: none;
 }
 nav h2{
   margin-right: 100px;
+  
 }
 .gameContainer {
   display: flex;
@@ -113,5 +115,9 @@ nav h2{
   .container {
     grid-template-rows: repeat(3, 20vw);
     grid-template-columns: repeat(3, 20vw);
+  }
+  nav h2{
+   font-size: medium;
+    
   }
 }
